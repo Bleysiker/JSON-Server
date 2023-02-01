@@ -2,15 +2,18 @@
     "users":[
         {
             "id":1,
-            "name":"lololex"
+            "name":"Bleysiker",
+            "deck":[6,73,97,666,7]
         },
         {
             "id":2,
-            "name":"waroo"
+            "name":"FenixSlayer",
+            "deck":[78,3,31,106,34]
         },
         {
             "id":3,
-            "name":"vathrix"
+            "name":"Qanaro",
+            "deck":[89,26,400,501,57]
         }
     ]
 }
